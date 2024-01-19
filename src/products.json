@@ -1,0 +1,389 @@
+{
+    "products": [
+        {
+            "id": "e182115a-63d2-42ce-8fe0-5f696ecdfba6",
+            "name": "Brilliant Watch",
+            "price": "250.00",
+            "stock": 2
+        },
+        {
+            "id": "f9a6d214-1c38-47ab-a61c-c99a59438b12",
+            "name": "Old fashion cellphone",
+            "price": "24.00",
+            "stock": 2
+        },
+        {
+            "id": "1f1321bb-0542-45d0-9601-2a3d007d5842",
+            "name": "Modern iPhone",
+            "price": "1000.00",
+            "stock": 2
+        },
+        {
+            "id": "f5384efc-eadb-4d7b-a131-36516269c218",
+            "name": "Beautiful Sunglasses",
+            "price": "12.00",
+            "stock": 2
+        },
+        {
+            "id": "6d6ca89d-fbc2-4fc2-93d0-6ee46ae97345",
+            "name": "Stylish Cup",
+            "price": "8.00",
+            "stock": 2
+        },
+        {
+            "id": "efe0c7a3-9835-4dfb-87e1-575b7d06701a",
+            "name": "Herb caps",
+            "price": "12.00",
+            "stock": 2
+        },
+        {
+            "id": "x341115a-63d2-42ce-8fe0-5f696ecdfca6",
+            "name": "Audiophile Headphones",
+            "price": "550.00",
+            "stock": 2
+        },
+        {
+            "id": "42860491-9f15-43d4-adeb-0db2cc99174a",
+            "name": "Digital Camera",
+            "price": "225.00",
+            "stock": 2
+        },
+        {
+            "id": "63a3c635-4505-4588-8457-ed04fbb76511",
+            "name": "Empty Bluray Disc",
+            "price": "5.00",
+            "stock": 2
+        },
+        {
+            "id": "97a19842-db31-4537-9241-5053d7c96239",
+            "name": "256BG Pendrive",
+            "price": "60.00",
+            "stock": 2
+        },
+
+        {
+            "id": "65a037ef8b0d372c0e7d4987",
+            "name": "Kemp Olson",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a037efb14f4823e8a68050",
+            "name": "Church Pollard",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a037efbb2f51bab8afd323",
+            "name": "Penelope Terry",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a037efb1031f9cf261ccaa",
+            "name": "Villarreal Dickerson",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a037efa95c6d9c4eef7a81",
+            "name": "Barron Copeland",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a037ef7ebb8f55fe64d1c1",
+            "name": "Dillard Wright",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a03826ed2fbf85782378ba",
+            "name": "Hilary Stanley",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a03826ed123860d84c34b8",
+            "name": "Shawn Yates",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a038265dfe78d87ebc2fba",
+            "name": "Knox Morgan",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a038261e1ff2d344184af2",
+            "name": "Beck Noble",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a038265f4f826b4e820fe9",
+            "name": "Jeannie Sanford",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a03826dc82cd8b4fd344d8",
+            "name": "Harrison Pollard",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a0382a5265ced13e972870",
+            "name": "Minerva Gilliam",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a0382a8091e6b90181f70c",
+            "name": "Misty Medina",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a0382aa5b87a33a8919637",
+            "name": "Mclean Jacobson",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a0382a2bdb1823134429cc",
+            "name": "Flora Morse",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a0382a92e64999bb77fb51",
+            "name": "Cash Knapp",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a0382a14988cd3a3ee7628",
+            "name": "Marsh Carter",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a03830c2bc42042d7ccf1d",
+            "name": "Ann Jones",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a03830ace5b25a22f520d4",
+            "name": "Collier Fitzpatrick",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a03830a3063063d8c5e13e",
+            "name": "Simone Patrick",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a0383025ff7febdb73909a",
+            "name": "Brooke Snyder",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a03830e7954c83da5f23b3",
+            "name": "Ramirez Yang",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a03830973b6baf9a140a4e",
+            "name": "Christian Mills",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a0383034c278d1a6f28b6f",
+            "name": "Jeannie Pacheco",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a03859cb0297aa5ffcb272",
+            "name": "Lara Osborne",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a038591a06f335228fdb86",
+            "name": "Bonita Chambers",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a03859aab674c8e5ce6324",
+            "name": "Stanley Rice",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a038590b550fb1ce9baf87",
+            "name": "Moss Warren",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a0385920a02112e992281b",
+            "name": "Mckay Hansen",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a03860b2ed2745bf2820ba",
+            "name": "Minnie Mcintosh",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a03860bf62ef01d4ccca4b",
+            "name": "Tonia Hendrix",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a03860bd9a54cb402e4d37",
+            "name": "Alexis Leach",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a0386066082cc9f29fa9dc",
+            "name": "Estelle Campbell",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a0386090c417b140bf6997",
+            "name": "Diana Oliver",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a03860ead9d7acc1b44710",
+            "name": "Lana Conner",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a0386079ca956e52604a2a",
+            "name": "Dana England",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a0386eb74e50ade13c09e4",
+            "name": "Earlene Taylor",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a0386eab56d4566e5f86dd",
+            "name": "Marjorie Park",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a0386e722203a5ee2ba8e8",
+            "name": "Larson Hayes",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a0386e88212f0be0779b99",
+            "name": "Gayle Alvarez",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a0386ebb323889b9b1d621",
+            "name": "Roxanne Cervantes",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a0386efd96405bd2fdd425",
+            "name": "Aida Weber",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a03877d5541ad66fd75dbd",
+            "name": "Angelia Larsen",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a038779318c5ad0f7fc28d",
+            "name": "Virgie Dejesus",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a03877a2bc2eebc0b47bbf",
+            "name": "Campbell Dixon",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a03877f631ba56c95ecf46",
+            "name": "Little Burton",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a0387706f77f01dd6baf5c",
+            "name": "Byrd Meyers",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a038805721a86ea0fbc2a7",
+            "name": "Adams Gilliam",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a03880d5ff5dcb9ba2080a",
+            "name": "Vicky Sweeney",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a03880ceae89f847b1c8bd",
+            "name": "Nell Bowman",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a03880ed74a7e1cc8fff6f",
+            "name": "Drake Mosley",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a03880c9999cf4e4b2acb5",
+            "name": "Hallie Oneill",
+            "price": 100,
+            "stock": 2
+        },
+        {
+            "id": "65a0388051688c42ef109a82",
+            "name": "Yesenia Bryant",
+            "price": 100,
+            "stock": 2
+        }
+    ]
+}
